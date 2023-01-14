@@ -30,7 +30,7 @@ export const Qualification = () => {
           <TabPanels>
             <Panel id={0}>
               <PanelItem
-                title="Computer Science"
+                title="Informatics engineering "
                 subtitle="Tishreen University"
                 date="2017 - 2022"
               />
