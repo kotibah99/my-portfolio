@@ -1,0 +1,10 @@
+.service {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+@media (max-width: 370px) {
+  .service {
+    grid-template-columns: 90%;
+    justify-content: center;
+  }
+}
