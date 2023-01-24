@@ -24,6 +24,7 @@ import proGym from "../assets/proGym.png";
 import gitHub from "../assets/gitHub.png";
 import personal from "../assets/personal.jpg";
 import kotibah_4_IT from "../assets/kotibah_4_IT.jpg";
+import Diagram from "../assets/Diagram.png"
 export const SKILLS = [
   {
     title: "Programming",
@@ -123,8 +124,12 @@ export const SKILLS = [
         progress: 50,
       },
       {
-        name: "MongoDB / MySQL",
-        progress: 60,
+        name: "MongoDB",
+        progress: 40,
+      },
+      {
+        name: " MySQL",
+        progress: 85,
       },
       {
         name: "Relational DB",
@@ -192,7 +197,7 @@ export const PROJECTS = [
     image: Graduation,
     demo: "",
     github:
-      "",
+      "https://github.com/kotibah99/Graduation-Project",
     tools: ["html/css", "javascript", "php", "mySql", "laravel"],
   },
   {
@@ -215,23 +220,15 @@ export const PROJECTS = [
     tools: ["html/css", "javascript", "php", "mySql"],
   },
   {
-    name: "Maraya.com",
-    description: "website for large Screen not responsive",
+    name: "Developer Team",
+    description: "Social Network Theme With Sass ",
     image: Maraya,
-    demo: "https://kotibah99.github.io/training1/",
+    demo: "https://kotibah99.github.io/Developer-Team/",
     github:
-      "https://github.com/kotibah99/training1",
-    tools: ["html/css"],
+      "https://github.com/kotibah99/Developer-Team",
+    tools: ["html/css", "Sass", "JavaScript"],
   },
-  {
-    name: "Responsive",
-    description: "Create a simple, formatted design as a ready-made template for other projects",
-    image: laptop,
-    demo: "https://kotibah99.github.io/responsive-personal-work/",
-    github:
-      "https://github.com/kotibah99/responsive-personal-work",
-    tools: ["html/css"],
-  },
+
   {
     name: "BookMarker",
     description:
@@ -254,7 +251,7 @@ export const PROJECTS = [
   },
   {
 
-    name: "Rawaa App",
+    name: "food-order",
     description:
       "web-based food ordering application. The app is fully responsive to small devices (e.g., mobiles or tablets).",
     image: rawaa,
@@ -270,7 +267,7 @@ export const PROJECTS = [
     ],
   },
   {
-    name: "Rawaa Dashboard",
+    name: "food-order Dashboard",
     description:
       "UI management tool for managing Rawaa-app. The app has quick summary widgets, graphs for displaying data, and sortable, paginated, and filtered tables to display data.",
     image: rawaaDashboard,
@@ -286,21 +283,13 @@ export const PROJECTS = [
     ],
   },
   {
-    name: "Forkify",
-    description: "recipe application with custom recipe upload.",
-    image: forkify,
-    demo: "https://forkify-hossam.netlify.app/",
+    name: "Nasa Mission ",
+    description: "Space exploration project. Find your favorite planet from the list of habitable planets, schedule your trip and have fun.",
 
-    tools: ["html/css", "javascript", "rest"],
-  },
-  {
-    name: "Omnifood",
-    description:
-      "Landing page for an ai-food company. Website adaptable to all devices, with-ui components and animated interactions.",
-    image: omnifood,
-    demo: "https://omnifood-hossam.netlify.app/",
+    image: Diagram,
+    gitHub: "https://github.com/kotibah99/nasa-mission-control-main",
 
-    tools: ["html/css", "javascript"],
+    tools: ["Arwes ", "react.js", "Express"],
   },
 
   {
