@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.cc15d755.css",
+    "main.js": "/my-portfolio/static/js/main.a2978646.js",
+    "static/media/movieList.png": "/my-portfolio/static/media/movieList.b51ed3a9d88ea9b4f801.png",
+    "static/media/Maraya.png": "/my-portfolio/static/media/Maraya.9df9892e6078a6337bf7.png",
+    "static/media/kotibah mohamad-1.pdf": "/my-portfolio/static/media/kotibah mohamad-1.0e58f7ee997da4a59877.pdf",
+    "static/media/profile1.png": "/my-portfolio/static/media/profile1.fc7f8adc2891df668268.png",
+    "static/media/kotibahIT.png": "/my-portfolio/static/media/kotibahIT.682d3935bff9b22b8232.png",
+    "static/media/gitHub.png": "/my-portfolio/static/media/gitHub.824443c258e218ab8f52.png",
+    "static/media/omnifood.png": "/my-portfolio/static/media/omnifood.a3adfcaba32f85bcfd28.png",
+    "static/media/rawaafood.png": "/my-portfolio/static/media/rawaafood.42df9bb3405cc4c7f911.png",
+    "static/media/about.jpg": "/my-portfolio/static/media/about.4df150c04f8b8c7e03e7.jpg",
+    "static/media/logo1.png": "/my-portfolio/static/media/logo1.a112d9fdfd1e368a6721.png",
+    "static/media/Diagram.png": "/my-portfolio/static/media/Diagram.5dddbd497fe23caecd2c.png",
+    "static/media/BookMark.png": "/my-portfolio/static/media/BookMark.acf28f2f837c70e98593.png",
+    "static/media/Graduation.jpg": "/my-portfolio/static/media/Graduation.e7d58011850aa18b70d2.jpg",
+    "static/media/rawa-dashboard.png": "/my-portfolio/static/media/rawa-dashboard.3efe01977f7900ac60d0.png",
+    "static/media/fetchApi.png": "/my-portfolio/static/media/fetchApi.71af673e7f68b940da69.png",
+    "static/media/autoComplete.png": "/my-portfolio/static/media/autoComplete.69035b453966a8e02c64.png",
+    "static/media/kotibah_4_IT.jpg": "/my-portfolio/static/media/kotibah_4_IT.b4114d95a6731e28af67.jpg",
+    "static/media/forkify.png": "/my-portfolio/static/media/forkify.ac607b2ac242f9aaa60b.png",
+    "static/media/proGym.png": "/my-portfolio/static/media/proGym.a2bf25ab0175165b79df.png",
+    "static/media/laptop.jpg": "/my-portfolio/static/media/laptop.bf553b4a490c0e15bebd.jpg",
+    "static/media/personal.jpg": "/my-portfolio/static/media/personal.6e8c079b6d095c6513e0.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.cc15d755.css.map": "/my-portfolio/static/css/main.cc15d755.css.map",
+    "main.a2978646.js.map": "/my-portfolio/static/js/main.a2978646.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc15d755.css",
+    "static/js/main.a2978646.js"
+  ]
+}
